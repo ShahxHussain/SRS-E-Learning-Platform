@@ -36,7 +36,7 @@
 
   <ul>
     <li><a href="https://github.com/ShahxHussain">Syed Shah Hussain Badshah</a></li>
-    <li><a href="https://github.com/ShahxHussain">Mahad Wajid</a></li>
+    <li><a href="https://github.com/mahadwajid">Mahad Wajid</a></li>
   </ul>
 
   <h2>Acknowledgments</h2>
