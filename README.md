@@ -1,10 +1,7 @@
-# SRS-E-Learning-Platform
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Software Requirement Engineering Project: E-Learning Platform SRS Document</title>
 </head>
 <body>
 
